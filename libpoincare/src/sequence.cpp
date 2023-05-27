@@ -14,6 +14,8 @@
 #include <poincare/undefined.h>
 #include <ion/storage.h>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 SequenceNode::SequenceNode(const char * newName, int length) : SymbolAbstractNode() {

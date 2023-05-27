@@ -12,6 +12,8 @@
 #include <assert.h>
 #include <ion/unicode/utf8_decoder.h>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 ConstantNode::ConstantNode(const char * newName, int length) : SymbolAbstractNode() {

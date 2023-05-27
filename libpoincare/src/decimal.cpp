@@ -13,6 +13,8 @@
 #include <utility>
 #include <algorithm>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 void removeZeroAtTheEnd(Integer * i, int minimalNumbersOfDigits = -1) {

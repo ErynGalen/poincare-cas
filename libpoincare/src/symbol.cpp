@@ -14,6 +14,8 @@
 #include <string.h>
 #include <assert.h>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 constexpr char Symbol::k_ans[];

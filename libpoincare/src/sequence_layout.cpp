@@ -6,6 +6,8 @@
 #include <assert.h>
 #include <algorithm>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 constexpr KDCoordinate SequenceLayoutNode::k_symbolWidth;

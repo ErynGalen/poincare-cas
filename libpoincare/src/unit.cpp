@@ -13,6 +13,7 @@
 #include <apps/i18n.h>
 #include <apps/global_preferences.h>
 
+#include <bsd/bsd.h>
 
 namespace Poincare {
 

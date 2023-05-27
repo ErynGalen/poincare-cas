@@ -5,6 +5,8 @@
 extern "C" {
 #include <math.h>
 #include <string.h>
+
+#include <bsd/bsd.h>
 }
 
 namespace Poincare {

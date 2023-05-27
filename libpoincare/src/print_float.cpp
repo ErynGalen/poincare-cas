@@ -17,6 +17,8 @@ extern "C" {
 #include <cmath>
 #include <algorithm>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 constexpr int PrintFloat::Long::k_maxNumberOfCharsForDigit;

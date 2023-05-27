@@ -4,6 +4,8 @@
 #include <string.h>
 #include <assert.h>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 void SerializationHelper::ReplaceSystemParenthesesByUserParentheses(char * buffer, int length) {

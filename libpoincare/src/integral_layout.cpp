@@ -6,6 +6,8 @@
 #include <assert.h>
 #include <algorithm>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 const uint8_t topSymbolPixel[IntegralLayoutNode::k_symbolHeight][IntegralLayoutNode::k_symbolWidth] = {

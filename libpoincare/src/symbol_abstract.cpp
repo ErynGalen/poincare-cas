@@ -12,6 +12,8 @@
 #include <string.h>
 #include <algorithm>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 size_t SymbolAbstractNode::size() const {

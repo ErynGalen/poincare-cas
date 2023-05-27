@@ -7,6 +7,8 @@
 #include <poincare/undefined.h>
 #include <cmath>
 
+#include <bsd/bsd.h>
+
 namespace Poincare {
 
 FunctionNode::FunctionNode(const char * newName, int length) : SymbolAbstractNode() {
